@@ -1,6 +1,7 @@
 # web592group20
 
-<h1>ชื่อกลุ่ม Music</h1>
+<h1 style="color:#FFFFFF;background-color:#FF6699;border:1px solid
+#a88">ชื่อกลุ่ม MUSIC</h1>
 
 <hr>
 
