@@ -1,5 +1,4 @@
 # web592group20
-<BODY background="wallpaper3.jpg"></BODY>
 <h1>ชื่อกลุ่ม MUSIC</h1>
 
 <hr>
